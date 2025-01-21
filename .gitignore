@@ -5,3 +5,8 @@ telegram_data1.csv
 telegram_data2
 telegram_messages.csv
 scraping_session.session
+clean_data.csv
+labeled_messages.conll
+labeled_telegram_product_price_location.txt-
+clean_data_messages.csv
+labeled_data.conll
